@@ -4,12 +4,12 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hotel Recommender System](/sample_page)
+<img src="images/Preview Recommender.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Twitter Sentiment Analysis During Indonesia Presidential Election 2014 DSI](/pdf/sample_presentation.pdf)
+<img src="images/Preview Sentiment Analysis.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)

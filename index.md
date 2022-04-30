@@ -2,8 +2,12 @@
 
 ---
 
-### Category Name 1 
+<!-- ### Category Name 1  -->
 
+[Television Ads Prediction](https://drive.google.com/file/d/1qQ7D4URREuIdRy1rWUV45OaYxFR46ac5/view?usp=sharing)
+<img src="images/Preview Television Ads Prediction.jpg?raw=true"/>
+
+---
 [Hotel Recommender System](/sample_page)
 <img src="images/Preview Recommender.png?raw=true"/>
 
@@ -12,18 +16,18 @@
 <img src="images/Preview Sentiment Analysis.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Diabetes Bot Detection](http://example.com/)
+<img src="images/Preview Diabotection.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+<!-- ### Category Name 2 -->
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+<!-- - [Project 1 Title](http://example.com/) -->
+<!-- - [Project 2 Title](http://example.com/) -->
+<!-- - [Project 3 Title](http://example.com/) -->
+<!-- - [Project 4 Title](http://example.com/) -->
+<!-- - [Project 5 Title](http://example.com/) -->
 
 ---
 

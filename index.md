@@ -9,7 +9,7 @@
 
 ---
 [Hotel Recommender System](/sample_page)
-<img src="images/Preview Recommender.png?raw=true"/>
+<img src="images/Preview Recommender.jpg?raw=true"/>
 
 ---
 [Twitter Sentiment Analysis During Indonesia Presidential Election 2014 DSI](/pdf/sample_presentation.pdf)
